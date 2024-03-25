@@ -15,8 +15,8 @@ They aim to ensure code consistency, quality, and security.
 
 ## Decision
 
-1. pre-commit-hooks (v3.2.0)
-Repository: pre-commit/pre-commit-hooks (version v3.2.0)
+1. pre-commit-hooks (v3.2.0) <br>
+Repository: pre-commit/pre-commit-hooks (version v3.2.0) <br>
 Hooks:
 - trailing-whitespace
 - end-of-file-fixer
