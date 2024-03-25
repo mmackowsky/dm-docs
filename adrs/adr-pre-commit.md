@@ -19,11 +19,11 @@ They aim to ensure code consistency, quality, and security.
 Repository: https://github.com/pre-commit/pre-commit-hooks (version v3.2.0) <br>
 Hooks: <br>
 <ul>
-- trailing-whitespace
-- end-of-file-fixer
-- check-yaml
-- check-added-large-files
-- requirements-txt-fixer
+<li>trailing-whitespace</li>
+<li>end-of-file-fixer</li>
+<li>check-yaml</li>
+<li>check-added-large-files</li>
+<li>requirements-txt-fixer</li>
 </ul>
 
 Explanation:
@@ -37,7 +37,7 @@ Explanation:
 <h3>2. black (v23.3.0)</h3> <br>
 Repository: https://github.com/psf/black (version 23.3.0) <br>
 Hooks: <br>
-<li>black</li> <br>
+<li>black</li>
 Explanation: <br>
 <li>black is a tool for automatic Python code formatting, maintaining a consistent coding style across our projects.</li>
 
