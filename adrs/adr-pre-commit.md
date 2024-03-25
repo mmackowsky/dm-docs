@@ -24,6 +24,12 @@ Hooks:
 - check-added-large-files
 - requirements-txt-fixer
 
+Explanation:
+- trailing-whitespace and end-of-file-fixer will help maintain code cleanliness by removing unnecessary white spaces at the end of lines and files.
+- check-yaml is essential for our projects utilizing YAML, ensuring syntax correctness.
+- check-added-large-files helps avoid committing large files, which can lead to excessive repository size.
+- requirements-txt-fixer automates the process of sorting and formatting the requirements.txt file, enhancing readability and dependency management.
+
 
 ## Consequences
 
