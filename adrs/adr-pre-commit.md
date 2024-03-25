@@ -1,6 +1,6 @@
 # Decision to Implement Pre-commit Hooks
 
-<p style="font-size: 16px;">Date: `2024-03-20`<p>
+<p style="font-size: 20px;">Date: 2024-03-20<p>
 
 ## Status
 
