@@ -15,8 +15,8 @@ They aim to ensure code consistency, quality, and security.
 
 ## Decision
 
-<h3>1. pre-commit-hooks (v3.2.0)</h3> <br>
-Repository: https://github.com/pre-commit/pre-commit-hooks (version v3.2.0) <br>
+<h3>1. pre-commit-hooks (v3.2.0)</h3>
+Repository: https://github.com/pre-commit/pre-commit-hooks<br>
 Hooks: <br>
 <ul>
 <li>trailing-whitespace</li>
@@ -33,8 +33,8 @@ Explanation:
 - requirements-txt-fixer automates the process of sorting and formatting the requirements.txt file, enhancing readability and dependency management.
 
 
-<h3>2. black (v23.3.0)</h3> <br>
-Repository: https://github.com/psf/black (version 23.3.0) <br>
+<h3>2. black (v23.3.0)</h3>
+Repository: https://github.com/psf/black<br>
 Hooks: <br>
 <ul>
 <li>black</li>
@@ -45,8 +45,8 @@ Explanation: <br>
 </ul>
 
 
-<h3>3. bandit (v1.7.5)</h3> <br>
-Repository: https://github.com/PyCQA/bandit (version 1.7.5)
+<h3>3. bandit (v1.7.5)</h3>
+Repository: https://github.com/PyCQA/bandit
 Hooks: <br>
 <ul>
 <li>bandit</li>
@@ -56,7 +56,16 @@ Explanation: <br>
 <li>bandit is a tool for static code analysis to identify potential security vulnerabilities. Implementing it will help us identify potential security threats in our codebase.</li>
 </ul>
 
-
+<h3>4. isort (v5.12.0)</h3>
+Repository: https://github.com/pycqa/isort
+Hooks: <br>
+<ul>
+<li>isort (python)</li>
+</ul>
+Explanation: <br>
+<ul>
+<li>djLint with the djlint-reformat-handlebars hook ensures formatting HTML files according to established standards, contributing to code consistency and readability in our Django projects</li>
+</ul>
 
 ## Consequences
 
