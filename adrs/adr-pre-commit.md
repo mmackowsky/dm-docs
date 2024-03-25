@@ -18,12 +18,13 @@ They aim to ensure code consistency, quality, and security.
 <h3>1. pre-commit-hooks (v3.2.0)</h3> <br>
 Repository: https://github.com/pre-commit/pre-commit-hooks (version v3.2.0) <br>
 Hooks: <br>
+<ul>
 - trailing-whitespace
 - end-of-file-fixer
 - check-yaml
 - check-added-large-files
 - requirements-txt-fixer
-
+</ul>
 
 Explanation:
 - trailing-whitespace and end-of-file-fixer will help maintain code cleanliness by removing unnecessary white spaces at the end of lines and files.
@@ -36,9 +37,9 @@ Explanation:
 <h3>2. black (v23.3.0)</h3> <br>
 Repository: https://github.com/psf/black (version 23.3.0) <br>
 Hooks: <br>
-- black <br>
+<li>black</li> <br>
 Explanation: <br>
-- black is a tool for automatic Python code formatting, maintaining a consistent coding style across our projects.
+<li>black is a tool for automatic Python code formatting, maintaining a consistent coding style across our projects.</li>
 
 
 ## Consequences
