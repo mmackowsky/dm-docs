@@ -89,5 +89,5 @@ Implementing the above pre-commit hooks will contribute to:
 
 ## Keywords
 
-- 
-- 
+- Pre-commit
+- Hooks
