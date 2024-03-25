@@ -16,8 +16,8 @@ They aim to ensure code consistency, quality, and security.
 ## Decision
 
 <h3>1. pre-commit-hooks (v3.2.0)</h3> <br>
-Repository: [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) (version v3.2.0) <br>
-Hooks:
+Repository: https://github.com/pre-commit/pre-commit-hooks (version v3.2.0) <br>
+Hooks: <br>
 - trailing-whitespace
 - end-of-file-fixer
 - check-yaml
@@ -34,10 +34,10 @@ Explanation:
 
 
 <h3>2. black (v23.3.0)</h3> <br>
-Repository: [psf/black](https://github.com/psf/black) (version 23.3.0) <br>
-Hooks:
+Repository: https://github.com/psf/black (version 23.3.0) <br>
+Hooks: <br>
 - black <br>
-Explanation:
+Explanation: <br>
 - black is a tool for automatic Python code formatting, maintaining a consistent coding style across our projects.
 
 
