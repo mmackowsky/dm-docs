@@ -30,6 +30,13 @@ Explanation:
 - check-added-large-files helps avoid committing large files, which can lead to excessive repository size.
 - requirements-txt-fixer automates the process of sorting and formatting the requirements.txt file, enhancing readability and dependency management.
 
+2. black (v23.3.0) <br>
+Repository: [psf/black](https://github.com/psf/black) (version 23.3.0) <br>
+Hooks:
+- black
+Explanation:
+- black is a tool for automatic Python code formatting, maintaining a consistent coding style across our projects.
+
 
 ## Consequences
 
