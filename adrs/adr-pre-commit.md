@@ -33,13 +33,29 @@ Explanation:
 - requirements-txt-fixer automates the process of sorting and formatting the requirements.txt file, enhancing readability and dependency management.
 
 
-
 <h3>2. black (v23.3.0)</h3> <br>
 Repository: https://github.com/psf/black (version 23.3.0) <br>
 Hooks: <br>
+<ul>
 <li>black</li>
+</ul>
 Explanation: <br>
+<ul>
 <li>black is a tool for automatic Python code formatting, maintaining a consistent coding style across our projects.</li>
+</ul>
+
+
+<h3>3. bandit (v1.7.5)</h3> <br>
+Repository: https://github.com/PyCQA/bandit (version 1.7.5)
+Hooks: <br>
+<ul>
+<li>bandit</li>
+</ul>
+Explanation: <br>
+<ul>
+<li>bandit is a tool for static code analysis to identify potential security vulnerabilities. Implementing it will help us identify potential security threats in our codebase.</li>
+</ul>
+
 
 
 ## Consequences
