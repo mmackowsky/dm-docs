@@ -33,7 +33,7 @@ Explanation:
 
 
 
-2. black (v23.3.0) <br>
+<h3>2. black (v23.3.0)</h3> <br>
 Repository: [psf/black](https://github.com/psf/black) (version 23.3.0) <br>
 Hooks:
 - black <br>
