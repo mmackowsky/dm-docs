@@ -14,8 +14,7 @@ Pre-commit hooks are automated scripts executed before committing changes to the
 They aim to ensure code consistency, quality, and security.
 
 ## Decision
-<ul>
-
+<li>
 
 1. pre-commit-hooks (v3.2.0) <br>
 Repository: [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) (version v3.2.0) <br>
@@ -42,7 +41,7 @@ Hooks:
 Explanation:
 - black is a tool for automatic Python code formatting, maintaining a consistent coding style across our projects.
 
-</ul>
+</li>
 
 ## Consequences
 
