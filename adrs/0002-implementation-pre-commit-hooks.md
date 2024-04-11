@@ -67,17 +67,6 @@ Explanation: <br>
 <li>djLint with the djlint-reformat-handlebars hook ensures formatting HTML files according to established standards, contributing to code consistency and readability in our Django projects</li>
 </ul>
 
-<h3>5. djLint (v1.34.0)</h3>
-Repository: https://github.com/Riverside-Healthcare/djLint
-Hooks: <br>
-<ul>
-<li>djlint-reformat-handlebars (for HTML files)</li>
-</ul>
-Explanation: <br>
-<ul>
-<li>djLint with the djlint-reformat-handlebars hook ensures formatting HTML files according to established standards, contributing to code consistency and readability in our Django projects.</li>
-</ul>
-
 ## Consequences
 
 Implementing the above pre-commit hooks will contribute to:
