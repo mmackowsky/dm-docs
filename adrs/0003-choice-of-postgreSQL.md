@@ -20,5 +20,7 @@ By sticking with PostgreSQL as my relational database, I ensure the continued ab
 
 ## Keywords
 
--
-- 
+- PostgreSQL
+- Relational Database
+- Data Relationships
+- Data Integrity
