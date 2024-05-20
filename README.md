@@ -18,6 +18,8 @@ Every document is numbered in order of creation.
 
 [DeviceMinder Payments](https://github.com/mmackowsky/dm-payments)
 
-[DeviceMinder Devices](https://github.com/mmackowsky/dm-payments)
+[DeviceMinder Devices](https://github.com/mmackowsky/dm-devices-service)
+
+[DeviceMinder Users](https://github.com/mmackowsky/dm-users-service)
 
 </ul>
