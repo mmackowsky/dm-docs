@@ -10,8 +10,7 @@ Every document is numbered in order of creation.
 ## Links to services and app description
 
 <p>
-DeviceMinder is an app created on microservices architecture, polyrepo concept, and it is a simulation of IoT environment.
-Each of services has separated tasks and purpose. Services communicate via API Gateway. Links to repositories below:
+DeviceMinder is an application built on a microservices architecture following the polyrepo concept, designed to simulate an IoT environment. Each service has a distinct task and purpose, and they communicate through an API Gateway. Below are the links to the repositories:
 </p>
 
 <ul>
